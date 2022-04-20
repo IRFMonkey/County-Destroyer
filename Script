@@ -1,5 +1,6 @@
 -- Wow you found the source code. Edit the text and scripts if you want but not the names of the objects since that screws up the code.
 -- Made by Airbus A321 Neo XLR
+-- All of the scripts are on my github to be not deleted on pastebin also there maybe a paid script coming soon
 
 local ScreenGui = Instance.new("ScreenGui")
 local main = Instance.new("Frame")
@@ -72,7 +73,7 @@ OPFinality.TextColor3 = Color3.fromRGB(89, 255, 0)
 OPFinality.TextSize = 14.000
 OPFinality.TextStrokeColor3 = Color3.fromRGB(89, 255, 0)
 OPFinality.MouseButton1Down:connect(function()
-	loadstring(game:HttpGet('https://pastebin.com/raw/cfKmKkLK'))()
+	loadstring(game:HttpGet('https://raw.githubusercontent.com/IRFMonkey/OPFinality/main/Script'))()
 end)
 
 protip.Name = "protip"
